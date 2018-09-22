@@ -1,2 +1,2 @@
 # hw1
-[Visit GitHub!](www.github.com)
+[Visit GitHub!](https://github.com/)
